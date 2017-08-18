@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Foto 1" android:id="@+id/i1"/>
+    <item android:title="Foto 2" android:id="@+id/i2"/>
+    <item android:title="Foto 3" android:id="@+id/i3"/>
+    <item android:title="Foto 4" android:id="@+id/i4"/>
+    <item android:title="Foto 5" android:id="@+id/i5"/>
+</menu>
